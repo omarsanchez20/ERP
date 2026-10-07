@@ -1,5 +1,5 @@
-#ERP Modular de 9B
+# ERP Modular de 9B
 
-Modulo: empleados
+## Modulo: empleados
 
-Este repositorio contiene las practicas d versionamiento y control del ERP de 9B
+### Este repositorio contiene las practicas d versionamiento y control del ERP de 9B
