@@ -3,3 +3,7 @@
 ## Modulo: empleados
 
 ### Este repositorio contiene las practicas d versionamiento y control del ERP de 9B
+
+# Nuevas caracteristicas
+
+se añade una mejor documentacion al proyecto
